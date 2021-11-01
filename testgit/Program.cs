@@ -16,6 +16,7 @@ namespace testgit
 
             Console.WriteLine("Hey all!!!");
             Console.WriteLine("Hey everyone!!!");
+            Console.WriteLine("git");
         }
     }
 }
