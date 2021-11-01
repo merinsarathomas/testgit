@@ -8,9 +8,13 @@ namespace testgit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hii");
-            Console.WriteLine("Hey all......");
-            Console.WriteLine("Hey all!!!");
 
+            Console.WriteLine("Hey all......");
+
+            Console.WriteLine("Hey all");
+
+            Console.WriteLine("Hey all!!!");
+            Console.WriteLine("Hey everyone!!!");
         }
     }
 }
